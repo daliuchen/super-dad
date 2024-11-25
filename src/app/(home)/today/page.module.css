@@ -1,0 +1,38 @@
+
+.listView {
+    height: 53vh;
+}
+.actionContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+.action{
+    width: 40%;
+    margin: 10px;
+    background: var(--main-background);
+}
+.itemPrefix{
+    font-size: 1.5rem;
+    margin: auto 10px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+}
+.timeActionContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    margin-left: -10px;
+}
+.timeAction{
+    width: 40%;
+    font-size: 0.5rem;
+    margin: 5px;
+    background: var(--main-background);
+}

@@ -1,0 +1,23 @@
+.tagContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px;
+}
+.tag{
+    margin: 5px;
+    padding: 5px;
+    background: var(--main-background);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 20px;
+}
+.label{
+    margin: 5px;
+}
+.count{
+    margin: 0 5px;
+    font-size: 0.8rem;
+}

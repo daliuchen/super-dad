@@ -1,0 +1,9 @@
+.content{
+    height: calc(100vh - 48px);
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
