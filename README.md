@@ -12,6 +12,9 @@ Mainly utilized the features of Next:
 However, the code for this project is rough and there are many areas that need optimization. If you're willing, you can fix and enhance its functionality.
 
 
+
+The knowledge used in this project comes from [dashboard-app](https://nextjs.org/learn/dashboard-app.), include postgresql
+
 ### Start
 1. Clone the repository
 2. Run `pnpm install`
